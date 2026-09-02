@@ -6,11 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Hridoy Ahmed Rafi</h1>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 22px; font-weight: bold; color: #8A2BE2; width: 60%;">
-    💻 Beginner Web Developer  |  🚀 Frontend Developer  |  ✨ Passionate Learner
-  </marquee>
-</p>
+<h3 align="center" style="border: none;">💻 Beginner Web Developer | Frontend Developer</h3>
+
 
 
 ## 💫 About Me
