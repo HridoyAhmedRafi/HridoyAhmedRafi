@@ -4,8 +4,9 @@
 
 
 # Hi there, I'm Hridoy Ahmed Rafi 👋 
-
 ### 💻 Beginner Web Developer | Frontend Developer
+
+## 💫 About Me:
 I'm a passionate beginner web developer who enjoy building responsive, clean and user-friendly websites.
 I'm currently learning and improving my skills in modern web development and working on different projects to build my portfolio.
 
