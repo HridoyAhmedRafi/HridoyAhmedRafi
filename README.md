@@ -7,14 +7,8 @@
 <h1 align="center">Hi 👋, I'm Hridoy Ahmed Rafi</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=34&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Developer;Problem+Solver;Lifelong+Learner+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=34&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;Problem+Solver;Lifelong+Learner+%26+AI+Enthusiast" alt="Typing SVG" />
 </h3>
-
-
-
-
-
-
 
 
 
