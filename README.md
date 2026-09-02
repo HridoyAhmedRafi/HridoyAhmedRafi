@@ -6,7 +6,13 @@
 
 <h1 align="center">Hi 👋, I'm Hridoy Ahmed Rafi</h1>
 
-<h3 align="center" style="border: none;">💻 Beginner Web Developer | Frontend Developer</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=40&duration=2000&pause=300&color=9D8FFF&width=490&height=90&lines=Frontend+Developer;Future+Full+Stack+Developer;Problem+Solver;Lifelong+Learner+and+AI+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 
