@@ -4,10 +4,15 @@
 
 
 
+<h1 align="center">Hi 👋, I'm Hridoy Ahmed Rafi</h1>
 
- # Hi there, I'm Hridoy Ahmed Rafi 👋 
+<p align="center">
+  💻 Beginner Web Developer | Frontend Developer
+</p>
 
-### 💻Beginner Web Developer | Frontend Developer
+
+
+
 
 
 
