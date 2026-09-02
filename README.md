@@ -21,7 +21,7 @@ I'm a passionate beginner web developer who enjoys building responsive, clean, a
 - 💻 **Interest:** Problem Solving.
 - 🎨 **Passion:** Creating responsive and modern UI/UX.
 - 💪 **Goal:** Become a Full Stack Developer.
-- 💡 I enjoy learning new technologies and turning ideas into projects.
+💡 I enjoy learning new technologies and turning ideas into projects.
 
 
 ## 🌐 Socials:
