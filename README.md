@@ -10,8 +10,7 @@ I'm a passionate beginner web developer who enjoy building responsive, clean and
 I'm currently learning and improving my skills in modern web development and working on different projects to build my portfolio.
 
 
- 
-## 💫 About Me:
+## ⚡Current Status
 - 🎯 Current Focus: Working on Web Development 
 - 🎓 Learning: Improving my skills in JavaScript, Tailwind CSS & React.js
 - 💻 Interest: Full Stack Web Development
