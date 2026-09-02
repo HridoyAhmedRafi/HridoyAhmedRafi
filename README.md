@@ -6,7 +6,7 @@
 # Hi there, I'm Hridoy Ahmed Rafi 👋 
 
 ## 💻 Beginner Web Developer | Frontend Developer
-I'm a passionate beginner web developer who enjoy building responsive, clean and user-friendly websites and web application.
+I'm a passionate beginner web developer who enjoy building responsive, clean and user-friendly websites.
 I'm currently learning and improving my skills in modern web development and working on different projects to build my portfolio.
 
 
@@ -28,7 +28,6 @@ I'm currently learning and improving my skills in modern web development and wor
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HridoyAhmedRafi&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=HridoyAhmedRafi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HridoyAhmedRafi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
