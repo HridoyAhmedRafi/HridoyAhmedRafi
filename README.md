@@ -3,8 +3,9 @@
 </p>
 
 
+
 # Hi there, I'm Hridoy Ahmed Rafi 👋 
-💻 Beginner Web Developer | Frontend Developer
+Beginner Web Developer | Frontend Developer.
 
 ## 💫 About Me:
 I'm a passionate beginner web developer who enjoy building responsive, clean and user-friendly websites.
