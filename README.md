@@ -14,7 +14,7 @@ I'm currently learning and improving my skills in modern web development and wor
 ## 💫 About Me:
 - 🎯 Current Focus: Working on Web Development 
 - 🎓 Learning: Improving my skills in JavaScript, Tailwind CSS & React.js
-- 💻 Interest: Frontend Web Development
+- 💻 Interest: Full Stack Web Development
 - 🎨 Passion: Creating responsive and modern UI 
 - 💪 Goal: Always eager to learn new technologies
 
