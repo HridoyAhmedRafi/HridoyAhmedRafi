@@ -60,10 +60,18 @@ I'm a passionate beginner web developer who enjoys building responsive, clean, a
 
 
 
-
 ## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=HridoyAhmedRafi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HridoyAhmedRafi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=HridoyAhmedRafi&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HridoyAhmedRafi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 
 ### ⭐Thanks for visiting my profile.
