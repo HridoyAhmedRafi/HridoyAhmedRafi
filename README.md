@@ -28,19 +28,6 @@ I'm a passionate web developer who enjoys building responsive, clean, and user-f
 - 💡 I enjoy learning new technologies and turning ideas into projects.
 
 
-## 🌐 Socials:
-
-#### ◆ Connect With Me
-
-<p align="center">
-  <a href="https://discord.com/users/1520247433282588773"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:hridoyahmedrafi20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-
-
-
-
 ## 💻 Tech Stack
 
 #### ◈ Frontend
@@ -67,6 +54,14 @@ I'm a passionate web developer who enjoys building responsive, clean, and user-f
 Responsive e-commerce website built with HTML, CSS and Tailwind CSS.
 - [Live Demo](https://hridoyahmedrafi.github.io/Nature-s-platter/)
 - [Repository Link](https://github.com/HridoyAhmedRafi/Nature-s-platter.git)
+
+
+## 🌐 Connect With Me:
+
+<p align="center">
+  <a href="https://discord.com/users/1520247433282588773"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:hridoyahmedrafi20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 
 
