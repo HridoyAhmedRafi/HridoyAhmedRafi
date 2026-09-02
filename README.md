@@ -58,6 +58,12 @@ I'm a passionate beginner web developer who enjoys building responsive, clean, a
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
+## 🚀 Featured Projects
+### 🛒 E-Commerce Website
+Responsive e-commerce website built with HTML, CSS and Tailwind CSS.
+- [Live Demo](https://hridoyahmedrafi.github.io/Nature-s-platter/)
+- [Repository Link](https://github.com/HridoyAhmedRafi/Nature-s-platter.git)
+
 
 
 ## 📊 GitHub Stats:
