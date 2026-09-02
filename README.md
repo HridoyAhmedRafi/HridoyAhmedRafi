@@ -7,7 +7,6 @@
 
 ## 💻 Beginner Web Developer | Frontend Developer
 I'm a passionate beginner web developer who enjoy building responsive, clean and user-friendly websites and web application.
-
 I'm currently learning and improving my skills in modern web development and working on different projects to build my portfolio.
 
 
