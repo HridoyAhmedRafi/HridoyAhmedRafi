@@ -4,9 +4,12 @@
 
 
 
+<p align="center">
+  <a href="https://discord.com/users/1520247433282588773"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:hridoyahmedrafi20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 
-<h1 align="center">Hi 👋, I'm Hridoy</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=34&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;Problem+Solver;Lifelong+Learner+%26+AI+Enthusiast" alt="Typing SVG" />
