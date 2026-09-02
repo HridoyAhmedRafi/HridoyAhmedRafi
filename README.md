@@ -20,7 +20,7 @@ I'm a passionate beginner web developer who enjoys building responsive, clean, a
 - 🎓 **Learning:** Deepening my skills in JavaScripxt, Tailwind CSS & React.js.
 - 💻 **Interest:** Problem Solving.
 - 🎨 **Passion:** Creating responsive and modern UI/UX.
-- 🚀 **Goal:** Goal: Become a skilled Full Stack Developer and build real-world applications.
+- 🚀 **Goal:**: Become a skilled Full Stack Developer and build real-world applications.
 - 💡 I enjoy learning new technologies and turning ideas into projects.
 
 
