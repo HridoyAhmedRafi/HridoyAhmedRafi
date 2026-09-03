@@ -25,7 +25,7 @@
 I'm a passionate web developer who enjoys building responsive, clean, and user-friendly web applications. I'm continuously learning and improving my skills in modern web development while working on projects that challenge me and help me grow as a developer.
 
 - 🔭 **Current Focus:** Working on Web Development projects.
-- 🎓 **Learning:** Deepening my skills in JavaScripxt, Tailwind CSS & React.js.
+- 🎓 **Learning:** Deepening my skills in JavaScript, Tailwind CSS & React.js.
 - 💻 **Interest:** Problem Solving.
 - 🎨 **Passion:** Creating responsive and modern UI/UX.
 - 🚀 **Goal:** Become a skilled Full Stack Developer and build real-world applications.
