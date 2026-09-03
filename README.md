@@ -83,4 +83,4 @@ Responsive e-commerce website built with HTML, CSS and Tailwind CSS.
 </table>
 
 
-### ⭐Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
