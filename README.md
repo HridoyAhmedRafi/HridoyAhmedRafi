@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8247947-c6ca-43ba-a2dd-e4057218a68e" alt="githubbanner3" width="100%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hridoy%20Ahmed%20Rafi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=18&descAlignY=58&descAlign=50&color=0:15142D,100:776DC2&animation=fadeIn"
+    width="100%"
+    alt="Hridoy Ahmed Rafi"
+  />
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Hridoy</h1> 
+
 
 
 
