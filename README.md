@@ -57,7 +57,7 @@ I'm a passionate web developer who enjoys building responsive, clean, and user-f
 ### 🛒 E-Commerce Website
 Responsive e-commerce website built with HTML, CSS and Tailwind CSS.
 - [Live Demo](https://hridoyahmedrafi.github.io/Nature-s-platter/)
-- [Repository Link](https://github.com/HridoyAhmedRafi/Nature-s-platter.git)
+- [Repository Link](https://github.com/HridoyAhmedRafi/Nature-s-platter)
 
 
 ## 🌐 Connect With Me:
