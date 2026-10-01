@@ -55,10 +55,10 @@ I'm a passionate web developer who enjoys building responsive, clean, and user-f
 </p>
 
 ## 🚀 Featured Projects
-### Nature-s-platter
-Responsive e-commerce website built with HTML, CSS and Tailwind CSS.
-- [Live Demo](https://hridoyahmedrafi.github.io/Nature-s-platter/)
-- [Repository Link](https://github.com/HridoyAhmedRafi/Nature-s-platter)
+### Fit-Log
+A modern and responsive exercise management web application built with Next.js. FITLOG allows users to explore exercises, view detailed information, create a daily workout plan, and save exercises for later.
+- [Live Demo](https://fit-log-swart.vercel.app)
+- [Repository Link](https://github.com/HridoyAhmedRafi/fit-log)
 
 ### DevStack
 A modern, responsive webpage built with React and TypeScript, styled efficiently using Tailwind CSS
