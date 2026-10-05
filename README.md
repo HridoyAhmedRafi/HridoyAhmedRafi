@@ -69,9 +69,7 @@ A modern, responsive webpage built with React and TypeScript, styled efficiently
 ## 🌐 Connect With Me:
 
 <p align="center">
-  <a href="https://www.facebook.com/rafi.ahmed.hridoy.286649">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
+  <a href="https://www.facebook.com/rafi.ahmed.hridoy.286649"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:hridoyahmedrafi20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
