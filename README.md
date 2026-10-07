@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hridoy%20Ahmed%20Rafi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=18&descAlignY=58&descAlign=50&color=0:15142D,100:776DC2&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hridoy%20Ahmed%20Rafi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&descAlign=50&color=0:15142D,100:776DC2&animation=fadeIn"
     width="100%"
     alt="Hridoy Ahmed Rafi"
   />
@@ -12,7 +12,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=34&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;Problem+Solver;Lifelong+Learner+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=34&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer;Problem+Solver;Lifelong+Learner+%26+AI+Enthusiast" alt="Typing SVG" />
 </h3>
 
 ---
