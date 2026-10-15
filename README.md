@@ -76,9 +76,19 @@ A modern and responsive exercise management web application built with Next.js. 
 - [Live Demo](https://fit-log-swart.vercel.app)
 - [Repository Link](https://github.com/HridoyAhmedRafi/fit-log)
 
+### Banga News 24
+A modern and responsive Bengali news web application with account-based authentication features.
+- [Live Demo](https://bangla-news-24-teal.vercel.app)
+- [Repository Link](https://github.com/HridoyAhmedRafi/bangla-news-24)
+
+### Bazar Dor
+BazarDor is a modern web application that helps users explore daily essential products
+- [Live Demo](https://bazar-dor-phi-ashen.vercel.app/)
+- [Repository Link](https://github.com/HridoyAhmedRafi/bazar-dor)
+
 ### DevStack
 A modern, responsive webpage built with React and TypeScript, styled efficiently using Tailwind CSS
-- [Live Demo](https://dev-stack-taupe.vercel.app/)
+- [Live Demo](https://dev-stack-taupe.vercel.app)
 - [Repository Link](https://github.com/HridoyAhmedRafi/DevStack)
 
 
